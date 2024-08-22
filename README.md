@@ -1,4 +1,4 @@
-Jogo do Número Secreto
+##Jogo do Número Secreto
 
 O Jogo do Número Secreto foi desenvolvido durante o curso da Alura "Lógica de Programação: Explore Funções e Listas" utilizando JavaScript, HTML e CSS no VS Code. 
 O curso faz parte das trilhas de aprendizado do programa ONE.
